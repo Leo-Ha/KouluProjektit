@@ -1,0 +1,50 @@
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.App.config
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.AssemblyReference.cache
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.MainForm.resources
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.Properties.Resources.resources
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.GenerateResource.cache
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.CoreCompileInputs.cache
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\FormsProject.exe.config
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\FormsProject.exe
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\FormsProject.pdb
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\FireSharp.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\m8\source\repos\FormsProject\FormsProject\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.CopyComplete
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.exe
+C:\Users\m8\source\repos\FormsProject\FormsProject\obj\Debug\FormsProject.pdb
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.App.config
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.AssemblyReference.cache
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.exe
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.pdb
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\FormsProject.exe.config
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\FormsProject.exe
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\FormsProject.pdb
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\FireSharp.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.MainForm.resources
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.Properties.Resources.resources
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.GenerateResource.cache
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja202x\Documents\Visual Studio 2022\FormsProject\FormsProject\obj\Debug\FormsProject.csproj.CopyComplete
